@@ -1,0 +1,241 @@
+-------------------
+cartridge Klaus Klabuster started (openWIG r428)
+-------------------
+17:25:5|0.0|0.0|115.0|1.0|:: EVNT: Klaus Klabuster.OnStart
+17:25:5|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Wer kennt ihn nicht - Larry Laffer, den einsamen Helden der achtziger Jahre des letzten Jahrtausends
+17:25:5|0.0|0.0|115.0|1.0|:: EEND: Klaus Klabuster.OnStart
+17:25:8|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:8|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Aber wusstest Du auch, dass Larry einen Halbbruder hat!
+
+Klaus Klabuster, aus Kladow!
+
+
+17:25:8|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:8|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:8|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:12|0.0|0.0|115.0|1.0|:: BTTN: Button2 pressed
+17:25:12|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Ach, TMZ, Du kennst also Larry und Klaus noch nicht. 
+
+Bist Du denn schon ueber 18?
+17:25:12|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:12|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:12|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:13|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:13|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Dann werden fuer Dich ein paar einfache Fragen sicherlich kein Problem sein!
+17:25:13|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:13|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:13|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:15|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:15|0.0|0.0|115.0|1.0|:: CALL: GetInput - Frage-1
+17:25:15|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:15|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:15|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:16|0.0|0.0|115.0|1.0|:: EVNT: Frage-1.OnGetInput (... acceptable.)
+17:25:16|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Richtig
+17:25:16|0.0|0.0|115.0|1.0|:: EEND: Frage-1.OnGetInput
+17:25:18|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:18|0.0|0.0|115.0|1.0|:: CALL: GetInput - Frage-2
+17:25:18|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:18|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:18|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:19|0.0|0.0|115.0|1.0|:: EVNT: Frage-2.OnGetInput (... lower.)
+17:25:19|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Richtig
+17:25:19|0.0|0.0|115.0|1.0|:: EEND: Frage-2.OnGetInput
+17:25:20|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:20|0.0|0.0|115.0|1.0|:: CALL: GetInput - Frage-3
+17:25:20|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:20|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:20|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:22|0.0|0.0|115.0|1.0|:: EVNT: Frage-3.OnGetInput (... television.)
+17:25:22|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Aiaiaiaiai, TMZ. Das war Falsch! 
+
+Aber ein Fehlschuss ist erlaubt!
+17:25:22|0.0|0.0|115.0|1.0|:: EEND: Frage-3.OnGetInput
+17:25:23|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:23|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Jetzt aber los - Klaus wartet schon.
+
+Viel Spass in Spandau!
+17:25:23|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:23|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:23|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:25|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:25|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Aber schoen artig bleiben!
+17:25:25|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:25|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:25|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:26|0.0|0.0|115.0|1.0|:: BTTN: Button1 pressed
+17:25:26|0.0|0.0|115.0|1.0|:: BTTN END
+17:25:26|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:25:26|0.0|0.0|115.0|1.0|:: BTTN END
+17:26:39|52.5374|13.2039|115.0|1.0|:: ZONE: inside Marktplatz
+17:26:39|52.5374|13.2039|115.0|1.0|:: EVNT: Marktplatz.OnEnter
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: aktuelle Umgebung.Description is set to Der Marktplatz in der Altstadt von Spandau. Alle Abenteuer liegen jetzt vor Dir. Greif' zu!
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: aktuelle Umgebung.Icon is set to ico-marktplatz
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: aktuelle Umgebung.Media is set to Marktplatz
+17:26:39|52.5374|13.2039|115.0|1.0|:: MOVE: aktuelle Umgebung to Marktplatz
+17:26:39|52.5374|13.2039|115.0|1.0|:: TIME: Hund start
+17:26:39|52.5374|13.2039|115.0|1.0|:: CALL: MessageBox - Der Marktplatz von Spandau - gehe los, und finde Dein Glueck!
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Gehe zum Marktplatz.Complete is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Geschafft! Du hast den Marktplatz erreicht!.Name is set to Geschafft! Du hast den Marktplatz erreicht!
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Geschafft! Du hast den Marktplatz erreicht!.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Finde deine Eva.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Finde deine Eva.Visible is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Currywurststand.Visible is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Hinterhof.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Bar.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Barraum.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Casino.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Spielhalle.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Hotel.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Hotelrezeption.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Hotelzimmer.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Kirche.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Altarraum.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Kaisers.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Verkaufsraum.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Disco.Active is set to true
+17:26:39|52.5374|13.2039|115.0|1.0|:: PROP: Tanzflaeche.Active is set to false
+17:26:39|52.5374|13.2039|115.0|1.0|:: EEND: Marktplatz.OnEnter
+17:26:51|52.5374|13.2039|115.0|1.0|:: STOR: storing game
+17:27:8|52.5374|13.2039|115.0|1.0|:: STOR: store successful
+17:27:48|52.5374|13.2039|115.0|1.0|:: EVNT: Stadtplan.Oncmdnehmen
+17:27:48|52.5374|13.2039|115.0|1.0|:: MOVE: Stadtplan to TMZ
+17:27:48|52.5374|13.2039|115.0|1.0|:: PROP: cmdnehmen.Enabled is set to false
+17:27:48|52.5374|13.2039|115.0|1.0|:: CALL: ShowScreen(0) 
+17:27:48|52.5374|13.2039|115.0|1.0|:: EEND: Stadtplan.Oncmdnehmen
+17:27:53|52.5374|13.2039|115.0|1.0|:: EVNT: Telefonzelle.Oncmdsetzen
+17:27:53|52.5374|13.2039|115.0|1.0|:: CALL: MessageBox - Oh - ein Platz zum ausruhen. Na besser als nichts.
+
+Huch - was ist das denn - unter der Sitzflaeche?
+17:27:53|52.5374|13.2039|115.0|1.0|:: EEND: Telefonzelle.Oncmdsetzen
+17:27:54|52.5374|13.2039|115.0|1.0|:: BTTN: Button1 pressed
+17:27:54|52.5374|13.2039|115.0|1.0|:: PROP: Filmdose.Visible is set to true
+17:27:54|52.5374|13.2039|115.0|1.0|:: CALL: ShowScreen(0) 
+17:27:54|52.5374|13.2039|115.0|1.0|:: BTTN END
+17:27:54|52.5374|13.2039|115.0|1.0|:: BTTN: (cancel) pressed
+17:27:54|52.5374|13.2039|115.0|1.0|:: BTTN END
+17:28:18|52.5374|13.2039|115.0|1.0|:: STOR: storing game
+17:28:32|52.5374|13.2039|115.0|1.0|:: STOR: store successful
+17:28:38|52.5374|13.2039|115.0|1.0|:: STOR: storing game
+17:28:39|52.5374|13.2039|115.0|1.0|:: TIME: Hund tick
+17:28:48|52.5374|13.2039|115.0|1.0|:: STOR: store successful
+17:28:48|52.5374|13.2039|115.0|1.0|:: EVNT: Hund.OnTick
+17:28:48|52.5374|13.2039|115.0|1.0|:: MOVE: Hund to Marktplatz
+17:28:48|52.5374|13.2039|115.0|1.0|:: CALL: MessageBox - Huch. Na der ist ja putzig. Ja - wo kommst Du denn her?
+
+Was geht ab?
+17:28:48|52.5374|13.2039|115.0|1.0|:: TIME: Pissen start
+17:28:48|52.5374|13.2039|115.0|1.0|:: java.lang.NullPointerException
+
+stack trace: at cz.matejcik.openwig.Timer$1@190ef06at @E:/webtempfiles/56066161-34a7-4075-9a20-3b26e123b301/_cartridge.enc:10997
+
+-------------------
+cartridge Klaus Klabuster started (openWIG r428)
+-------------------
+-------------------
+cartridge Klaus Klabuster started (openWIG r428)
+-------------------
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 175 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 353 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 444 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 286 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 245 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 564 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 581 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 642 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 695 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 321 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 771 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 841 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 813 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 885 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 405 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 425 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 488 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 167 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 173 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: java.lang.ClassCastException: cz.matejcik.openwig.Player cannot be cast to cz.matejcik.openwig.Media
+
+stack trace: 
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 175 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 488 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 167 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 173 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1522 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 321 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 885 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 841 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 286 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 425 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 444 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 245 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 564 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 405 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 695 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 642 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 771 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 581 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 813 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 353 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1615 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1621 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 1525 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: REST: not found reference 488 in object store
+17:29:8|52.5374|13.2039|115.0|1.0|:: java.lang.ClassCastException: se.krka.kahlua.vm.LuaTableImpl cannot be cast to cz.matejcik.openwig.Thing
+
+stack trace: 
+-------------------
+cartridge Klaus Klabuster started (openWIG r428)
+-------------------
+17:29:40|52.5374|13.2039|115.0|1.0|:: EVNT: Klaus Klabuster.OnRestore
+17:29:40|52.5374|13.2039|115.0|1.0|:: EEND: Klaus Klabuster.OnRestore
+17:29:40|52.5374|13.2039|115.0|1.0|:: EVNT: Hund.OnTick
+17:29:40|52.5374|13.2039|115.0|1.0|:: MOVE: Hund to Marktplatz
+17:29:40|52.5374|13.2039|115.0|1.0|:: CALL: MessageBox - Huch. Na der ist ja putzig. Ja - wo kommst Du denn her?
+
+Was geht ab?
+17:29:40|52.5374|13.2039|115.0|1.0|:: TIME: Pissen start
+17:29:40|52.5374|13.2039|115.0|1.0|:: EEND: Hund.OnTick
+-------------------
+cartridge Klaus Klabuster started (openWIG r428)
+-------------------
+17:30:9|0.0|0.0|115.0|1.0|:: EVNT: Klaus Klabuster.OnRestore
+17:30:9|0.0|0.0|115.0|1.0|:: EEND: Klaus Klabuster.OnRestore
+17:30:9|0.0|0.0|115.0|1.0|:: ZONE: distant Marktplatz
+17:30:10|0.0|0.0|115.0|1.0|:: EVNT: Hund.OnTick
+17:30:10|0.0|0.0|115.0|1.0|:: MOVE: Hund to Marktplatz
+17:30:10|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Huch. Na der ist ja putzig. Ja - wo kommst Du denn her?
+
+Was geht ab?
+17:30:10|0.0|0.0|115.0|1.0|:: TIME: Pissen start
+17:30:10|0.0|0.0|115.0|1.0|:: EEND: Hund.OnTick
+17:30:10|0.0|0.0|115.0|1.0|:: EVNT: Marktplatz.OnExit
+17:30:10|0.0|0.0|115.0|1.0|:: TIME: Pissen stop
+17:30:10|0.0|0.0|115.0|1.0|:: PROP: Polizist.Visible is set to false
+17:30:10|0.0|0.0|115.0|1.0|:: PROP: Landstreicher.Visible is set to false
+17:30:10|0.0|0.0|115.0|1.0|:: PROP: Currywurststand.Visible is set to false
+17:30:10|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Also wirklich TMZ, hast Du an der Telefonzelle nicht was vergessen?
+
+Soll die Dose so liegenbleiben?
+17:30:10|0.0|0.0|115.0|1.0|:: EEND: Marktplatz.OnExit
+17:30:15|0.0|0.0|115.0|1.0|:: BTTN: Button2 pressed
+17:30:15|0.0|0.0|115.0|1.0|:: PROP: Filmdose.Visible is set to false
+17:30:15|0.0|0.0|115.0|1.0|:: PROP: Geocoin.Visible is set to false
+17:30:15|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Guter Junge!
+17:30:15|0.0|0.0|115.0|1.0|:: BTTN END
+17:30:15|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+17:30:15|0.0|0.0|115.0|1.0|:: BTTN END
+17:30:23|0.0|0.0|115.0|1.0|:: STOR: storing game
+17:30:34|0.0|0.0|115.0|1.0|:: STOR: store successful
+-------------------
+cartridge Klaus Klabuster started (openWIG r428)
+-------------------
+17:30:57|0.0|0.0|115.0|1.0|:: EVNT: Klaus Klabuster.OnRestore
+17:30:57|0.0|0.0|115.0|1.0|:: EEND: Klaus Klabuster.OnRestore
